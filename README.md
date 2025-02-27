@@ -395,6 +395,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Roshanmohanta">
+                    <img src="https://avatars.githubusercontent.com/u/181507262?s=400&u=ae7308b08817acd6315b6378f9521fc19b555563&v=4" width="100px;" alt="Roshan Kumar Mohanta"/>
+                    <br />
+                    <sub><b>Roshan Kumar Mohanta</b></sub>
+               </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/ManideepCM">
                     <img src="https://avatars.githubusercontent.com/u/124023122?v=4" width="100px;" alt="Manideep Kalaveni"/>
                     <br />
